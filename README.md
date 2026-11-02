@@ -1,110 +1,139 @@
-## Hi there 👋
+<!-- ================= HEADER ================= -->
+
 <div align="center">
 
-<!-- NEON HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111827,100:00FF99&height=200&section=header&text=RENUSREEPAPIREDDIGARI&fontSize=35&fontColor=00FF99&animation=fadeIn&fontAlignY=40&desc=Student%20%7C%20Artificial%20Intelligence%20%26%20Machine%20Learning%20%7C%20Data%20Science&descAlignY=65&descSize=14" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:050505,50:101820,100:00FF99&amp;height=190&amp;section=header&amp;text=RENUSREEPAPIREDDIGARI&amp;fontSize=34&amp;fontColor=00FF99&amp;animation=fadeIn&amp;fontAlignY=40&amp;desc=Student%20%7C%20AI%20%26%20Machine%20Learning%20%7C%20Data%20Science&amp;descAlignY=65&amp;descSize=14" />
 
-<!-- ANIMATED INTRO -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00FF99&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!;Exploring+Artificial+Intelligence;Machine+Learning+Enthusiast;Data+Science+Explorer;Learning+%7C+Creating+%7C+Innovating" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;pause=1000&amp;color=00FF99&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Welcome+to+my+GitHub!;Artificial+Intelligence+Enthusiast;Machine+Learning+Explorer;Data+Science+Explorer;Turning+Ideas+Into+Solutions" />
 
 </div>
 
 ---
 
+<!-- ================= ABOUT ME ================= -->
+
 ## 🟢 ABOUT ME
 
-Hello! I'm **RENUSREEPAPIREDDIGARI**, a student passionate about technology, programming and innovation.
+Hello! I'm *RENUSREEPAPIREDDIGARI*, a student passionate about technology, innovation and problem-solving.
 
-- 🎓 Student interested in technology and software development.
-- 🤖 Interested in Artificial Intelligence and Machine Learning.
-- 📊 Exploring Data Science and data analysis.
-- 💡 Enjoy solving problems and building projects.
-- 🚀 Interested in developing real-world solutions.
-- 🌱 Always learning and exploring new technologies.
+- 🎓 Student interested in Artificial Intelligence and technology.
+- 🤖 Exploring Artificial Intelligence and Machine Learning.
+- 📊 Interested in Data Science and data analytics.
+- 💻 Working on academic and real-world projects.
+- 🚀 Enjoy learning new technologies and building solutions.
+- 🌱 Always exploring, experimenting and improving.
 
 ### 🎯 Areas of Interest
 
-`Artificial Intelligence` `Machine Learning` `Data Science` `Python` `Problem Solving`
+Artificial Intelligence Machine Learning Data Science Python Data Analytics
 
 ---
 
-## ⚡ TECHNOLOGY STACK
+<!-- ================= TECH STACK ================= -->
 
-### 💻 Programming Languages
+## ⚡ TOOLS & TECHNOLOGIES
 
-<p align="left">
+*Programming Languages*
+
+<p>
 <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js" />
 </p>
 
-### 🧠 AI / ML & Data Science
+*AI / ML & Data Science*
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=python,mysql,jupyter" />
 </p>
 
-### 🛠️ Tools & Technologies
+*Development Tools*
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
 </p>
 
 ---
+
+<!-- ================= PROJECTS ================= -->
 
 ## 🚀 FEATURED PROJECTS
 
 | Project | Description | Technology |
 |:---|:---|:---|
 | 🧠 [Alzheimer's Detection](https://github.com/RENUSREEPAPIREDDIGARI/Alzheimers_Detection-) | Machine learning project | PureBasic |
-| 📄 [Document Ingestion System (DDI)](https://github.com/RENUSREEPAPIREDDIGARI/Document_ingestion_system) | Document ingestion project | CSS |
+| 📄 Document Ingestion System (DDI) | Document ingestion project — private repository | CSS |
 | 📊 [OFE Analysis - NTTDATA](https://github.com/RENUSREEPAPIREDDIGARI/OFE_Analysis_NTTDATA) | Data analysis project | Python |
 | 🎯 [Product Recommendation System](https://github.com/RENUSREEPAPIREDDIGARI/Product_Recommendation_System) | End-to-end recommendation project | Python |
 | 🎓 [Campus Placement Prediction](https://github.com/RENUSREEPAPIREDDIGARI/Campus-Placement-Prediction) | Campus placement prediction | Jupyter Notebook |
-| ✨ [Social Media Content Generation](https://github.com/RENUSREEPAPIREDDIGARI/Social_media_content_Generation) | Social media content generation project | Private repository |
+
+*More projects:* [Explore all my repositories](https://github.com/RENUSREEPAPIREDDIGARI?tab=repositories)
 
 ---
 
-## 📊 GITHUB STATISTICS
+<!-- ================= GITHUB ACTIVITY ================= -->
+
+## 📊 GITHUB ACTIVITY
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RENUSREEPAPIREDDIGARI&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00FF99&icon_color=00D9FF&text_color=FFFFFF&rank_icon=github" />
+<a href="https://github.com/RENUSREEPAPIREDDIGARI">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RENUSREEPAPIREDDIGARI&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00FF99&text_color=FFFFFF" />
+<img src="https://img.shields.io/badge/Explore_My_Repositories-00FF99?style=for-the-badge&amp;logo=github&amp;logoColor=black" />
+
+</a>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=RENUSREEPAPIREDDIGARI&theme=dark&hide_border=true&background=050505&ring=00FF99&fire=00D9FF&currStreakLabel=00FF99" />
+*Check out my repositories, contributions and coding journey.*
 
 </div>
 
 ---
 
-## 🏆 GITHUB TROPHIES
+<!-- ================= ACHIEVEMENTS ================= -->
 
-<div align="center">
+## 🏆 ACHIEVEMENTS & GROWTH
 
-<img src="https://github-profile-trophy.vercel.app/?username=RENUSREEPAPIREDDIGARI&theme=matrix&no-frame=true&no-bg=true&margin-w=5&column=6" width="100%"/>
-
-</div>
+- 🚀 Building projects and exploring new technologies.
+- 🤖 Developing knowledge in AI and Machine Learning.
+- 📚 Continuously improving programming and problem-solving skills.
+- 💡 Turning concepts into practical implementations.
 
 ---
+
+<!-- ================= CONNECT ================= -->
 
 ## 🌐 CONNECT WITH ME
 
 <div align="center">
 
 <a href="https://github.com/RENUSREEPAPIREDDIGARI">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF99"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=00FF99" />
 </a>
+
+<a href="https://www.linkedin.com/in/renu-sree-0582b2344/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
+</a>
+
+<a href="mailto:renusreereddy03@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
+</a>
+
+<br/><br/>
+
+📧 **renusreereddy03@gmail.com*
 
 </div>
 
 ---
 
+<!-- ================= FOOTER ================= -->
+
 <div align="center">
 
 ### 💚 LEARN. BUILD. INNOVATE.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF99,50:111827,100:050505&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00FF99,50:101820,100:050505&amp;height=110&amp;section=footer" width="100%" />
 
 </div>
