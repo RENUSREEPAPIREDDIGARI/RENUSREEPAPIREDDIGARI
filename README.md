@@ -101,6 +101,9 @@ Artificial Intelligence Machine Learning Data Science Python Data Analytics
 - 💡 Turning concepts into practical implementations.
 
 ---
+## 🌐 MY PORTFOLIO
+
+[![Portfolio](https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-00FF99?style=for-the-badge&logo=vercel&logoColor=black)](YOUR_VERCEL_URL)
 
 <!-- ================= CONNECT ================= -->
 
