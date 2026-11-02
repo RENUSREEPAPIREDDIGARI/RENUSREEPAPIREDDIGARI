@@ -103,7 +103,7 @@ Artificial Intelligence Machine Learning Data Science Python Data Analytics
 ---
 ## 🌐 MY PORTFOLIO
 
-[![Portfolio](https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-00FF99?style=for-the-badge&logo=vercel&logoColor=black)](YOUR_VERCEL_URL)
+[![Portfolio](https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-00FF99?style=for-the-badge&logo=vercel&logoColor=black)](https://renusree-5odgvjdih-renu-sree1.vercel.app)
 
 <!-- ================= CONNECT ================= -->
 
